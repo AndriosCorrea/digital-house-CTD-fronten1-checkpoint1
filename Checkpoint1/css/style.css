@@ -129,6 +129,8 @@ h2{
 footer{
     padding: 100px;
     background-color: rgb(15, 97, 70);
+    display: flex;
+    flex-direction: column;
     
 }
 .links{
@@ -154,4 +156,25 @@ hr{
 }
 .footer-text{
     color: white;
+}
+.button-footer{
+    padding: 0.75rem 2rem;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    width:300px;
+    align-self: center;
+    border-radius: 10px;
+    background: rgba(51,51,255);
+    border: none;
+    
+
+}
+.link-dh{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.5em;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
 }
