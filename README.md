@@ -1,5 +1,5 @@
 # Digital House - Certified Tech Developer - Front end I
-Exercício realizado para o checkpoint da aula de front end I.
+Projeto final do primeiro bimestre de Front end I.
 # Instruções 
 - Seu site deve ser responsivo em duas resoluções: 1280px e 425px
 - Selecione uma imagem de background do seu estado e coloque como imagem de fundo do seu body.
